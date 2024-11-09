@@ -5,5 +5,5 @@
 // Pronto é isso, se gostou curta o projeto. Click no botão e entre no meu perfil e veja outros projetos que podem te ajudar, Obrigado.
 
 function entrar() {
-  window.location.href = 'https://www.instagram.com/grecolagunas/?hl=es'}
+  {window.location.href = 'https://www.instagram.com/grecolagunas/?hl=es'}
 }
